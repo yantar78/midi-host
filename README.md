@@ -16,7 +16,7 @@
         soundfontUrl: "./soundfont/",
         instrument: "acoustic_grand_piano",
         onsuccess: function() {
-          MIDI.Player.loadFile("track1.mid", MIDI.Player.start);
+          MIDI.Player.loadFile("joytouchbytouch_Joy.mid", MIDI.Player.start);
         }
       });
     }
