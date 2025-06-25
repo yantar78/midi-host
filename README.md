@@ -22,3 +22,4 @@
 <a href="https://yantar78.github.io/midi-host/Audien-Matthew-Koma-Serotonin-ansteinkvarstad-20141220165943-nonstop2k.com.mid" download>Serotonin-ansteinkvarstad</a><br>
 <a href="https://yantar78.github.io/midi-host/francis-goya-la-raggazia-di-blue.mid" download>raggazia-di-blue</a><br>
 <a href="https://yantar78.github.io/midi-host/5419.mid" download>bolero</a><br>
+<a href="https://yantar78.github.io/midi-host/Fancy - Bolero1.mid" download>bolero2</a><br>
