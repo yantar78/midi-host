@@ -27,3 +27,4 @@
 <a href="https://yantar78.github.io/midi-host/Alejandro Sanz - Los Dos Cogidos De La Mano___WWW.MIDISFREE.COM.mid" download> Los Dos Cogidos De La Mano</a><br>
 <a href="https://yantar78.github.io/midi-host/Flying dust - Louie Louie___WWW.MIDISFREE.COM.mid" download> Louie Louie</a><br>
 <a href="https://yantar78.github.io/midi-host/85824_Just-Died-in-your-arms.mid" download> Just-Died-in-your-arms</a><br>
+<a href="https://yantar78.github.io/midi-host/HallOfFame.mid" download> HallOfFame</a><br>
