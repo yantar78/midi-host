@@ -33,3 +33,4 @@
 <a href="https://yantar78.github.io/midi-host/ManWhoCantBeMoved.mid" download> ManWhoCantBeMoved</a><br>
 <a href="https://yantar78.github.io/midi-host/78760_Forever-Young.mid" download> Forever-Young</a><br>
 <a href="https://yantar78.github.io/midi-host/44385_Losing-my-religion.mid" download> Losing-my-religion</a><br>
+<a href="https://yantar78.github.io/midi-host/LosingMyReligion.mid" download> Losing-my-religion2</a><br>
