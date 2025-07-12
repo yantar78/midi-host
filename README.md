@@ -41,3 +41,4 @@
 <a href="https://yantar78.github.io/midi-host/d_HO0686.mid" download> Born-to-Be-Alive</a><br>
 <a href="https://yantar78.github.io/midi-host/Eros Ramazzotti - Cosa Della Vita___WWW.MIDISFREE.COM.mid" download>Cosa Della Vita</a><br>
 <a href="https://yantar78.github.io/midi-host/eros_ramazzotti-cosa_della_vita.mid" download>Cosa Della Vita</a><br>
+<a href="https://yantar78.github.io/midi-host/58612_Bara-bere.mid" download>Bara-bere</a><br>
